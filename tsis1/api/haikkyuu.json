@@ -1,0 +1,52 @@
+[
+      {
+        "id": 1,
+        "name": "Hinata Shoyo",
+        "team": "Karasuno High School",
+        "position": "Middle Blocker",
+        "height": 162,
+        "age": 16
+      },
+      {
+        "id": 2,
+        "name": "Kageyama Tobio",
+        "team": "Karasuno High School",
+        "position": "Setter",
+        "height": 180,
+        "age": 16
+      },
+      {
+        "id": 3,
+        "name": "Daichi Sawamura",
+        "team": "Karasuno High School",
+        "position": "Captain / Wing Spiker",
+        "height": 179,
+        "age": 18
+      },
+      {
+        "id": 4,
+        "name": "Kuroo Tetsurou",
+        "team": "Nekoma High School",
+        "position": "Captain / Middle Blocker",
+        "height": 187,
+        "age": 18
+      },
+      {
+        "id": 5,
+        "name": "Oikawa Tooru",
+        "team": "Aoba Johsai High School",
+        "position": "Setter",
+        "height": 184,
+        "age": 17
+      },
+      {
+        "id": 6,
+        "name": "Tsukishima Kei",
+        "team": "Karasuno High School",
+        "position": "Middle Blocker",
+        "height": 188,
+        "age": 16
+      }
+    
+]
+  
